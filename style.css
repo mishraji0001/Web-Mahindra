@@ -472,29 +472,26 @@ body {
   
   
   
-    <br>
-    .photo-00001 {
-      background-image: url("scorpio-classic-exterior-right-rear-three-quarter.webp");
+  
+  
+      .photo-00011 {
+      background-image: url("TUV3001.webp");
     }
     
     .photo-00002 {
-      background-image: url("scorpio-classic-exterior-closed-boot-trunk.webp");
+      background-image: url("tuv 3002.jpg");
     }
     
     .photo-00003 {
-      background-image: url("scorpio-classic-exterior-front-view-4.webp");
+      background-image: url("TUV3001.webp");
     }
-    
-    .photo-00004 {
-      background-image: url("scorpio-classic-exterior-left-side-view-2.webp");
-   
-    }
-    
+   /* 
+    .photo-00014 {
+      background-image: ur("tuv 3002.jpg");
+    }*/
     .photo-00005 {
-      background-image: url("scorpio-classic-exterior-left-rear-three-quarter.webp");
+      background-image: url("TUV3001.webp");
     }
-  
-      
   
   
     .photo-0001 {
